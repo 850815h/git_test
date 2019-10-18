@@ -1,7 +1,7 @@
 # git_test
 
 
-Awsome
+Awsome... Samma rad
 
 
 ALSKDJLASKJDA
